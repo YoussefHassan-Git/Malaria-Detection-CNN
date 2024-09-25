@@ -19,9 +19,14 @@ This project aims to detect malaria in cell images using a **Convolutional Neura
 
 The dataset consists of:
 - **Parasitized**: Images of infected cells.
+  - **Uninfected**: Images of uninfected cells.
+ 
+**Sample of Parasitized:**
+
  ![36d6029f-ae5d-45b6-b452-b4effd01d995](https://github.com/user-attachments/assets/f9bea5bf-8a31-4208-9d67-17b49f4f1781)
 
-- **Uninfected**: Images of uninfected cells.
+
+**Sample of Uninfected:**
 
 ![002e4891-60f8-476c-be9b-c9ce06ec6c1c](https://github.com/user-attachments/assets/6631bd28-7245-4b93-b883-f5e94fb2e88a)
 
