@@ -1,4 +1,4 @@
-# Malaria Detection using CNN (96% Accuracy)
+# 🦠 Malaria Detection using CNN (96% Accuracy) 
 
 Malaria is a life-threatening disease caused by parasites that are transmitted through the bites of infected female Anopheles mosquitoes. Timely and accurate diagnosis is crucial in treating the disease, especially in resource-limited regions. This project uses a CNN-based deep learning approach to automatically detect malaria-infected cells from microscopic images of blood samples.
 
