@@ -13,13 +13,12 @@ This project aims to detect malaria in cell images using a **Convolutional Neura
 - **Model Architecture**:
   *  A CNN model was built using multiple convolutional layers, max-pooling layers, and dropout layers to avoid overfitting.
   
-- **Training**: The model was trained using `ImageDataGenerator` for data processing and an early stopping mechanism to prevent overfitting.
-  
-- **Performance**: The model achieved 96% accuracy on the test data.
+- **Training**:
+  * The model was trained using `ImageDataGenerator` for data processing and an early stopping mechanism to prevent overfitting.
 
-The dataset consists of:
+**The dataset consists of:**
 - **Parasitized**: Images of infected cells.
-  - **Uninfected**: Images of uninfected cells.
+- **Uninfected**: Images of uninfected cells.
  
 **Sample of Parasitized:**
 
