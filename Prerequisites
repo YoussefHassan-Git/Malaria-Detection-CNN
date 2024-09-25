@@ -1,0 +1,40 @@
+## Prerequisites :
+
+Before you begin, ensure you have met the following requirements:
+
+1. **Python Version**: You need Python 3.6 or higher installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+
+2. **Libraries**: Install the required Python libraries. You can use pip to install them using the following command:
+   ```bash
+---
+   pip install pandas 
+   pip install matplotlib 
+   pip install numpy 
+   pip install tensorflow 
+   pip install opencv-python 
+   pip install keras 
+   pip install scikit-learn
+---
+
+**Required Libraries:**
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import tensorflow as tf
+import os
+import cv2
+from sklearn.model_selection import train_test_split
+from keras.preprocessing import image
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from keras.models import Sequential
+from keras.layers import *
+from tensorflow.keras.callbacks import EarlyStopping
+
+---
+
+### Explanation
+
+- The **Prerequisites** section provides a clear overview of what is needed before running the project.
+- The **Required Libraries** subsection lists the specific libraries you'll be using, and the corresponding import statements give users a direct reference to the code they'll encounter in your project. 
+
+
