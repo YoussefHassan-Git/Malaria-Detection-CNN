@@ -49,14 +49,16 @@ Normalization is applied by scaling pixel values between 0 and 1.
 `Validation Accuracy: ~95%`
 `Testing Accuracy : ~96%`
 
-**Training, Validation Loss Graph**
+**Training, Validation Loss Graph:**
+
 ![4e4ea58a-4293-4d7a-a671-b74c671aea39](https://github.com/user-attachments/assets/f4bf59ad-4405-47d9-89a8-f187a78e4797)
 
-**Training, Validation Accuracy Graph**
+**Training, Validation Accuracy Graph:**
+
 ![25bb9e8e-d6ac-460b-9db3-18553be5e464](https://github.com/user-attachments/assets/986bf58a-d392-4d95-92ef-6707bde47430)
 
 
-*Example Testing The Model with a Sample*
+*Example Testing The Model with a Sample:*
 
 ![c9f2c1e4-6571-4078-84b4-0bea4f6689ba](https://github.com/user-attachments/assets/95dc2d1f-c9bd-40a6-ab78-d47dc0ad6d3b)
 
